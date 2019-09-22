@@ -1,7 +1,7 @@
 # BlackJack
 ブラックジャックです。
 
-Qiita記事: 
+Qiita記事: https://qiita.com/ikechan-nichu/items/d351c7b0de24c7f6a0c1
 
 コマンドラインから遊べます。
 
